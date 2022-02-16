@@ -1,0 +1,4 @@
+artifact_location: file:///content/gdrive/MyDrive/Colab-Notebooks/softuni-ai-deeplearning-project-alz-1/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: diy_model_3_custom
